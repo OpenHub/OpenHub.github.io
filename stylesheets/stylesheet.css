@@ -94,6 +94,7 @@ header h2 {
 }
 
 #content-wrapper {
+  border-top: solid 1px transparent;
   padding-top: 30px;
 }
 
