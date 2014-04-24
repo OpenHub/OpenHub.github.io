@@ -79,7 +79,7 @@ header h1 {
   width: 540px;
   text-align: center;
   padding:0px;
-  margin:50px 0px;
+  margin-left:50px;
 }
 
 header h2 {
@@ -91,7 +91,7 @@ header h2 {
   letter-spacing: 0;
   text-align: center;
   padding:0px;
-  margin:50px 0px;
+  margin-left:50px;
 }
 
 .inner {
