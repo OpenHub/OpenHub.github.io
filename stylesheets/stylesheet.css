@@ -90,7 +90,8 @@ header h2 {
   letter-spacing: 0;
   text-align: center;
   margin: 0 auto;
-  padding-left: 2px;
+  padding-left: 20px;
+  padding-top: 20px;
 }
 
 .inner {
