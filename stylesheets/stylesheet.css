@@ -98,8 +98,8 @@ header h2 {
   position: relative;
   right: 0;
   top: 0;
-  height: 20px;
-  width: 220px;
+  height: 100%;
+  width: 100%;
   background: transparent url(../images/ellipsis.apng) right bottom no-repeat;
 }
 
