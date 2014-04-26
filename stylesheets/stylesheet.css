@@ -79,7 +79,6 @@ header h1 {
   line-height: 1;
   width: 540px;
   text-align: center;
-  margin-bottom: 0.2em;
 }
 
 header h2 {
@@ -95,7 +94,8 @@ header h2 {
 .ellipsis {
   height: 20px;
   width: 220px;
-  margin-left: 10px;
+  margin-top: 20px;
+  margin-left: 50px;
   background: transparent url(../images/ellipsis.apng) 0 0 no-repeat;
 }
 
