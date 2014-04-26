@@ -100,7 +100,7 @@ header h2 {
   top: 0;
   height: 20px;
   width: 220px;
-  background: transparent url(../images/ellipsis.apng) 0 0 no-repeat;
+  background: transparent url(../images/ellipsis.apng) right center no-repeat;
 }
 
 .inner {
