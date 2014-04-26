@@ -67,8 +67,8 @@ header {
   font-family: 'Open Sans Light', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
   background: #042f35;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
 }
 
 header h1 {
@@ -103,10 +103,9 @@ header h2 {
 }
 
 .inner {
-  position: relative;
   width: 940px;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
 }
 
 #content-wrapper {
