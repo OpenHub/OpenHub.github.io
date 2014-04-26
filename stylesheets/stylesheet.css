@@ -67,9 +67,8 @@ header {
   font-family: 'Open Sans Light', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
   background: #042f35;
   position: absolute;
-  margin-left: 50%;
-  top: 50%;
-  transform: translateY(-50%);
+  display: -webkit-flex;
+  display: flex;
 }
 
 header h1 {
@@ -98,18 +97,15 @@ header h2 {
 
 .ellipsis {
   position: relative;
-  bottom: 0;
-  transform: translateY(-50%);
   height: 20px;
   width: 220px;
-  background: transparent url(../images/ellipsis.apng) 0 0 no-repeat;
+  background: transparent url(../images/ellipsis.apng) right bottom no-repeat;
 }
 
 .inner {
   position: relative;
   width: 940px;
-  top: 50%;
-  transform: translateY(-50%);
+  margin: auto;
 }
 
 #content-wrapper {
