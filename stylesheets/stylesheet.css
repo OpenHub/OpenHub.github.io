@@ -63,9 +63,17 @@ a:hover {
   color: #2268b2;
 }
 
+.flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 header {
   font-family: 'Open Sans Light', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
   background: #042f35;
+  margin-top: 3em;
 }
 
 header h1 {
