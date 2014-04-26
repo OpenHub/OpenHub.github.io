@@ -68,6 +68,7 @@ header {
   background: #042f35;
   position: absolute;
   top: 50%;
+  left: 50%;
   transform: translateY(-50%);
 }
 
@@ -97,17 +98,17 @@ header h2 {
 
 .ellipsis {
   position: relative;
-  right: 0;
-  top: 0;
+  right: 50%;
+  bottom: 0;
   height: 20px;
   width: 220px;
-  background: transparent url(../images/ellipsis.apng) right bottom no-repeat;
+  background: transparent url(../images/ellipsis.apng) 0 0 no-repeat;
 }
 
 .inner {
   position: relative;
   width: 940px;
-  margin: 0 auto;
+  left: 50%;
   top: 50%;
   transform: translateY(-50%);
 }
