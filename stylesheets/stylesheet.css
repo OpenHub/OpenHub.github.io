@@ -54,6 +54,9 @@ body {
   font-family: 'Open Sans Semibold', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 400;
   color: #fbfbfb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 a {
@@ -66,9 +69,6 @@ a:hover {
 header {
   font-family: 'Open Sans Light', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
   background: #042f35;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 header h1 {
@@ -104,8 +104,6 @@ header h2 {
 
 .inner {
   width: 940px;
-  align-items: center;
-  justify-content: center;
 }
 
 #content-wrapper {
