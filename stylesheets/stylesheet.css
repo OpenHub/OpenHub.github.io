@@ -79,7 +79,6 @@ header h1 {
   width: 540px;
   text-align: center;
   margin: 0 20%;
-  background-image: url(../images/ellipsis.apng) 0 0 no-repeat;
 }
 
 header h2 {
@@ -95,12 +94,13 @@ header h2 {
   padding-top: 15px;
 }
 
-.ellipsis{
-  position: relative;
+.ellipsis {
+  position: absolute;
+  right: 0;
+  top: 0;
   height: 20px;
   width: 220px;
-  margin: 0 auto;
-
+  background: transparent url(../images/ellipsis.apng) 0 0 no-repeat;
 }
 
 .inner {
