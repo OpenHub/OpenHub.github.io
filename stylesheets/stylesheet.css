@@ -64,9 +64,11 @@ a:hover {
 }
 
 header {
-  padding: 5% 0;
   font-family: 'Open Sans Light', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
   background: #042f35;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 header h1 {
@@ -106,7 +108,8 @@ header h2 {
   position: relative;
   width: 940px;
   margin: 0 auto;
-  padding: 10% 0;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 #content-wrapper {
