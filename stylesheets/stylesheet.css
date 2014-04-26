@@ -67,6 +67,7 @@ header {
   font-family: 'Open Sans Light', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
   background: #042f35;
   position: absolute;
+  margin: 0 auto;
   top: 50%;
   transform: translateY(-50%);
 }
