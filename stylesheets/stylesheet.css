@@ -95,7 +95,9 @@ header h2 {
 }
 
 .ellipsis{
-background-image: url(../images/ellipsis.apng) center center no-repeat;
+  height: 100%;
+  width: 100%;
+  background-image: url(../images/ellipsis.apng) center center no-repeat;
 }
 
 .inner {
