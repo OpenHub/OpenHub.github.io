@@ -95,7 +95,7 @@ header h2 {
 }
 
 .ellipsis {
-  position: absolute;
+  position: relative;
   right: 0;
   top: 0;
   height: 20px;
