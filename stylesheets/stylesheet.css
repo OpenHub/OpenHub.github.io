@@ -99,13 +99,14 @@ header h2 {
   height: 20px;
   width: 220px;
   margin: 0 auto;
-  background-image: url(../images/ellipsis.apng) center center no-repeat;
+
 }
 
 .inner {
   position: relative;
   width: 940px;
   margin: 0 auto;
+  background-image: url(../images/ellipsis.apng) center center no-repeat;
 }
 
 #content-wrapper {
