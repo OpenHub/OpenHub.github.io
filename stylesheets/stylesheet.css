@@ -95,10 +95,7 @@ header h2 {
 }
 
 .ellipsis{
-  position: absolute;
-  right: 0;
-  top: 0;
-  background: transparent url(../images/ellipsis.apng) 0 0 no-repeat;
+background-image: url(../images/ellipsis.apng) center center no-repeat;
 }
 
 .inner {
