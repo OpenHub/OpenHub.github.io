@@ -54,10 +54,6 @@ body {
   font-family: 'Open Sans Semibold', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 400;
   color: #fbfbfb;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }
 
 a {
@@ -79,6 +75,7 @@ header h1 {
   line-height: 1;
   width: 540px;
   text-align: center;
+  padding-bottom: 0.2em;
 }
 
 header h2 {
@@ -89,13 +86,14 @@ header h2 {
   width: 540px;
   letter-spacing: 0;
   text-align: center;
+  padding-left: 10px;
 }
 
 .ellipsis {
   height: 20px;
   width: 220px;
-  margin-top: 20px;
-  margin-left: 50px;
+  margin-top: 1em;
+  margin-left: 15px;
   background: transparent url(../images/ellipsis.apng) 0 0 no-repeat;
 }
 
