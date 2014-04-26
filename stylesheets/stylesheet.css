@@ -105,8 +105,8 @@ header h2 {
 .inner {
   position: relative;
   width: 940px;
-  display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 #content-wrapper {
