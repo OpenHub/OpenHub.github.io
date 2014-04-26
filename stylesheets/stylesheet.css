@@ -54,6 +54,10 @@ body {
   font-family: 'Open Sans Semibold', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 400;
   color: #fbfbfb;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 
 a {
@@ -66,9 +70,6 @@ a:hover {
 header {
   font-family: 'Open Sans Light', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
   background: #042f35;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 header h1 {
@@ -79,7 +80,6 @@ header h1 {
   width: 540px;
   text-align: center;
   margin-bottom: 0.2em;
-  margin: 0 auto;
 }
 
 header h2 {
@@ -92,7 +92,6 @@ header h2 {
   text-align: center;
   padding-left: 26px;
   padding-top: 15px;
-  margin: 0 auto;
 }
 
 .ellipsis {
@@ -104,6 +103,8 @@ header h2 {
 
 .inner {
   width: 940px;
+  display: flex;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
 }
