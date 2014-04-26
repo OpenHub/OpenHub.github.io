@@ -78,7 +78,7 @@ header h1 {
   margin-bottom: 0.2em;
   width: 540px;
   text-align: center;
-  margin: 0 auto;
+  margin: auto;
 }
 
 header h2 {
@@ -89,7 +89,7 @@ header h2 {
   width: 540px;
   letter-spacing: 0;
   text-align: center;
-  margin: 0 auto;
+  margin: auto;
   padding-left: 26px;
   padding-top: 15px;
 }
@@ -106,7 +106,7 @@ header h2 {
 .inner {
   position: relative;
   width: 940px;
-  margin: 0 auto;
+  margin: auto;
 }
 
 #content-wrapper {
