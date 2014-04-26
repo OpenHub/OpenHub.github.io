@@ -91,13 +91,14 @@ header h2 {
   letter-spacing: 0;
   text-align: center;
   padding-left: 26px;
-  padding-top: 15px;
+  padding-top: 10px;
 }
 
 .ellipsis {
   height: 20px;
   width: 220px;
-  background: transparent url(../images/ellipsis.apng) no-repeat;
+  margin-left: 10px;
+  background: transparent url(../images/ellipsis.apng) 0 0 no-repeat;
 }
 
 .inner {
