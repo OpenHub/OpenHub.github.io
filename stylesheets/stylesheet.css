@@ -66,8 +66,9 @@ a:hover {
 header {
   font-family: 'Open Sans Light', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
   background: #042f35;
-  display: -webkit-flex;
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 header h1 {
@@ -104,7 +105,8 @@ header h2 {
 .inner {
   position: relative;
   width: 940px;
-  margin: auto;
+  margin: 0 auto;
+  flex: 0;
 }
 
 #content-wrapper {
