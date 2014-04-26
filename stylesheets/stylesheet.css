@@ -68,6 +68,7 @@ header {
   background: #042f35;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 header h1 {
@@ -104,8 +105,9 @@ header h2 {
 .inner {
   position: relative;
   width: 940px;
-  margin: 0 auto;
-  flex: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #content-wrapper {
