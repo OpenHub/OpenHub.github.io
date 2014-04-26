@@ -78,7 +78,7 @@ header h1 {
   margin-bottom: 0.2em;
   width: 540px;
   text-align: center;
-  margin: 0 20%;
+  margin: 0 auto;
 }
 
 header h2 {
@@ -89,13 +89,13 @@ header h2 {
   width: 540px;
   letter-spacing: 0;
   text-align: center;
-  margin: 0 20%;
+  margin: 0 auto;
   padding-left: 26px;
   padding-top: 15px;
 }
 
 .ellipsis {
-  position: absolute;
+  position: relative;
   right: 0;
   top: 0;
   height: 20px;
