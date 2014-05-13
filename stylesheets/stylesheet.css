@@ -51,16 +51,16 @@ body {
   font-size: 15px;
   line-height: 1.5; 
   background: #042f35;
-  font-family: 'Open Sans Semibold', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
-  font-weight: 400;
+  font-family: Segoe UI Semilight, 'Open Sans Semibold', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-weight: 600;
   color: #fbfbfb;
 }
 
 a {
-  color: #2879d0;
+  color: #ebebeb;
 }
 a:hover {
-  color: #2268b2;
+  color: #aaa;
 }
 
 .flex {
@@ -71,7 +71,7 @@ a:hover {
 }
 
 header {
-  font-family: 'Open Sans Light', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: Segoe UI Semilight, 'Open Sans Light', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #042f35;
   margin-top: 11em;
 }
@@ -150,10 +150,10 @@ a.button {
   height: 58px;
   line-height: 1.2;
   font-size: 23px;
-  color: #fff;
+  color: #ebebeb;
   padding-left: 68px;
   padding-top: 22px;
-  font-family: 'Open Sans', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: Segoe UI Semilight, 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
 }
 a.button small {
   display: block;
@@ -189,14 +189,14 @@ code {
 
 pre {
   padding: 20px;
-  background: #fff;
+  background: #fbfbfb;
   text-shadow: none;
   overflow: auto;
   border: solid 1px #f2f2f2;
 }
 pre code {
-  color: #2879d0;
-  background-color: #fff;
+  color: #222;
+  background-color: #fbfbfb;
   border: none;
   padding: 0;
 }
@@ -223,7 +223,7 @@ table {
 }
 
 th {
-  font-weight: 500;
+  font-weight: 600;
 }
 
 td {
@@ -242,7 +242,7 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 #main-content h1 {
-  font-family: 'Open Sans', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: Segoe UI Semilight, 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 2.8em;
   letter-spacing: -1px;
   color: #fbfbfb;
@@ -256,7 +256,7 @@ form {
 }
 
 #main-content h2 {
-  font-family: 'Open Sans', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: Segoe UI Semilight, 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -270,7 +270,7 @@ form {
 }
 
 #main-content h3 {
-  font-family: 'Open Sans', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: Segoe UI Semilight, 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 18px;
   font-weight: bold;
   margin-top: 24px;
@@ -286,7 +286,7 @@ form {
 }
 
 #main-content h4 {
-  font-family: 'Open Sans', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: Segoe UI Semilight, 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
   font-weight: bold;
   color: #fbfbfb;
@@ -294,13 +294,13 @@ form {
 
 h4:before {
   content: "////";
-  color: #9ddcff;
+  color: #fbfbfb;
   padding-right: 0.3em;
   margin-left: -2.8em;
 }
 
 #main-content h5 {
-  font-family: 'Open Sans Semibold', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: Segoe UI Semilight, 'Open Sans Semibold', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 14px;
   color: #fbfbfb;
 } 
@@ -312,7 +312,7 @@ h5:before {
 }
 
 #main-content h6 {
-  font-family: 'Open Sans Semibold', Segoe UI Semilight, 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: Segoe UI Semilight, 'Open Sans Semibold', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: .8em;
   color: #fbfbfb;
 } 
@@ -354,7 +354,7 @@ ol {
 
 dl dd {
   font-style: italic;
-  font-weight: 100;
+  font-weight: 300;
 }
 
 footer {
@@ -452,8 +452,8 @@ footer a:hover {
     text-align: center;
     font-size: 13px;
     line-height: 1;
-    background-color: #9ddcff;
-    color: #2879d0;
+    background-color: #ebebeb;
+    color: #222;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;                     
     border-radius: 5px;    
