@@ -45,7 +45,8 @@ font-family: Segoe UI Semilight, 'RobotoDraft', 'Helvetica Neue', Helvetica, Ari
 color: #fbfbfb;
 }
 
-#buorg {background-color: #053a44 !important;border:none !important;color: #fff !important;}
+#buorg {background-color: #053a44 !important;border:none !important;}
+.buorg {color: #fff !important;}
 #buorg a {color: #ff5722 !important;}
 
 a {color: #ebebeb;}
