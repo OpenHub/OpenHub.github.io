@@ -46,6 +46,7 @@ color: #fbfbfb;
 }
 
 #buorg {background-color: #053a44 !important;border:none !important;color: #fff !important;}
+#buorg a {color: #ff5722 !important;}
 
 a {color: #ebebeb;}
 a:hover {color: #aaa;}
