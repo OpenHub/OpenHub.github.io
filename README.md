@@ -1,10 +1,9 @@
 Website for Ope-N (OPEN)
 ========================
 
-[Portal][web] | [Social][social]
+[Home][web]
 
 [web]: http://opnd.tk
-[social]: http://www.facebook.com/OpeN.dzine
 
 License
 -------
