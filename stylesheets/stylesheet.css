@@ -46,8 +46,14 @@ color: #fbfbfb;
 }
 
 .buorg {background-color: #053a44 !important; border: none !important;}
-.buorg {color: #fff !important;}
+#buorgul {background-color: teal !important; color: #fff !important;}
+#buorgig {background-color: #1f2631 !important; color: #fff !important;}
+.buorg {color: #fff !important; text-align: center !important;}
 .buorg a {color: #ff5722 !important;}
+.buorg {background-position: 14% center !important;}
+@media only screen and (max-width: 700px){
+.buorg {background-position: 9px 8px !important;}
+}
 
 a {color: #ebebeb;}
 a:hover {color: #aaa;}
