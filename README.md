@@ -7,7 +7,7 @@ License  [![lim]][lic]
 
 [lic]: http://creativecommons.org/licenses/by-nc-nd/4.0
 [lim]: https://img.shields.io/badge/CC%20BY--NC--ND-4.0-blue.svg?style=flat-square
-[web]: http://open.ninja.to
+[web]: http://open.bot.nu
 [git]: https://github.com/OpenHub/OpenHub.github.io
 [HL]: http://darkmorpher.ml
 
