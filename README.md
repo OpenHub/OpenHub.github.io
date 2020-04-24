@@ -1,12 +1,11 @@
 [OpenHub.github.io][web]
 =====================
 
-License  [![lim]][lic]
+License
 -------
-[Site][web] design is licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License][lic] by [Hei Liebrecht][HL] and released only on this [Github][git] repository.
+The [website][web] [openhub.github.io][web] and its iterations's visual design and any such element as well as content of the [website][web] itself is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License][lic2], and the underlying source code used to format and display that content is licensed under the GNU Affero General Public License v3.0 (GNU AGPLv3) License by [Hei Liebrecht][HL] and released only on this [Github][git] repository. 
 
-[lic]: http://creativecommons.org/licenses/by-nc-nd/4.0
-[lim]: https://img.shields.io/badge/CC%20BY--NC--ND-4.0-blue.svg?style=flat-square
+[lic2]: http://creativecommons.org/licenses/by-nc-nd/4.0
 [web]: http://open.bot.nu
 [git]: https://github.com/OpenHub/OpenHub.github.io
 [HL]: http://darkmorpher.ml
